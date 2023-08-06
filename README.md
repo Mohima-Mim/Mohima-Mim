@@ -1,6 +1,9 @@
+
+![I am Web Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, My name is **Mohima-Mim**
 #### I am **Web Designer**
-![I am Web Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am Web Designer who is passionate about making responsive websites. I have a passion for learning new things. I love to solve real-world problems. I pride myself on doing quality work and maintain excellent communication.
 
