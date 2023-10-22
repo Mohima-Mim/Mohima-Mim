@@ -1,8 +1,8 @@
 
 ![I am Web Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-## **Assalamualaikum............**
-### Hi 👋, I'm **Mohima-Mim**
+### **Assalamualaikum............**
+## Hi 👋, I'm **Mohima-Mim**
 #### I am **Front_End_Developer**
 
 
