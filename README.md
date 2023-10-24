@@ -1,4 +1,3 @@
-
 ![I am Web Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ### **Assalamualaikum............**
